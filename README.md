@@ -13,3 +13,4 @@
   </a>
  <div id = "bages">
   <img src="https://komarev.com/ghpvc/?username=alekseyProsk&style=flat-square&color=blue" alt="CountView">
+[![codewars](https://www.codewars.com/users/omnymnym/badges/small)](https://www.codewars.com/users/omnymnym) 
