@@ -14,4 +14,6 @@
  <div id = "bages">
   <img src="https://komarev.com/ghpvc/?username=alekseyProsk&style=flat-square&color=blue" alt="CountView">
     <div id = "bages">
- <img src=https://www.codewars.com/users/omnymnym/badges/small" alt="CodewarsBage">
+  </a>
+ <a href="https://www.codewars.com/users/omnymnym">
+ <img src="https://www.codewars.com/users/omnymnym/badges/small" alt="Codewars">
