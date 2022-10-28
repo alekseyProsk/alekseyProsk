@@ -10,10 +10,6 @@
   </a>
 <a href="https://discord.com/users/485763748108173344/">
   <img src = "https://img.shields.io/badge/Discord-black?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Bage">
-  </a>
-  //<div id = "bages">
-  //<img src="https://www.codewars.com/users/omnymnym/badges/small" alt="Codewars">
- // <a href="https://www.codewars.com/users/omnymnym">
  </a>
  <div id = "bages">
   <img src="https://komarev.com/ghpvc/?username=alekseyProsk&style=flat-square&color=blue" alt="CountView">
