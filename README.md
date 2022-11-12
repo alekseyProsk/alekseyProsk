@@ -10,7 +10,7 @@
   </a>
 <a href="https://discord.com/users/485763748108173344/">
   <img src = "https://img.shields.io/badge/Discord-black?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Bage">
-    </a>
+  </a>
 <a href="https://www.codewars.com/users/omnymnym">
   <img src= "https://www.codewars.com/users/omnymnym/badges/micro" alt="Codewars">
  </a>
